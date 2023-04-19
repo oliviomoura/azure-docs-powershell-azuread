@@ -24,10 +24,10 @@ The Add-AzureADMSAdministrativeUnitMember cmdlet adds an Active Directory admini
 
 ### Example 1
 ```powershell
-PS C:\> {{ Add example code here }}
+PS C:\> Add-AzureADMSAdministrativeUnitMember -Id e1d6ba54-eded-43e8-be6c-b4761cec4075 -RefObjectId 90488d3d-259a-4e69-99ef-6a2a898fd9bf
 ```
 
-{{ Add example description here }}
+This command adds a Azure Active Directory object to a administrative unit.
 
 ## PARAMETERS
 
